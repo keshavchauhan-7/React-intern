@@ -18,4 +18,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 ## Screenshot
-![Screenshot](./assets/Screenshot%202025-02-17%20161708.png)
+![Screenshot](./assets/screenshot1.png)
+![Screenshot](./assets/screenshot2.png)
+![Screenshot](./assets/screenshot3.png)
+![Screenshot](./assets/screenshot4.png)
